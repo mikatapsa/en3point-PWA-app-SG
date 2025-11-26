@@ -1,5 +1,8 @@
 // Home page logic: load shortcuts and greeting
-
+// checking checkin
+async function foo() {
+  return true;
+}
 async function loadShortcuts() {
   try {
     const response = await fetch('/data/shortcuts.json');
