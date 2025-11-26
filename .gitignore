@@ -1,0 +1,33 @@
+# macOS system files
+.DS_Store
+
+# Node.js dependencies
+node_modules/
+
+# Logs
+*.log
+
+# Temporary files
+*.tmp
+*.temp
+
+# IDE settings
+.vscode/
+.idea/
+
+# Backup files
+*.bak
+*.swp
+
+# System files
+Thumbs.db
+
+# Ignore JSON backups
+*.json.bak
+
+# Ignore HTML backups
+*.html.bak
+
+# Ignore image folders
+pictures/
+

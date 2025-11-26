@@ -1,0 +1,32 @@
+{
+  "shortcuts": [
+    {
+      "id": "help",
+      "name": "Help",
+      "icon": "🆘",
+      "color": "#ffebee",
+      "section": "help"
+    },
+    {
+      "id": "doctor",
+      "name": "Doctor",
+      "icon": "👨‍⚕️",
+      "color": "#e3f2fd",
+      "section": "doctor"
+    },
+    {
+      "id": "weather",
+      "name": "Weather",
+      "icon": "☀️",
+      "color": "#fff3e0",
+      "section": "weather"
+    },
+    {
+      "id": "news",
+      "name": "News",
+      "icon": "📰",
+      "color": "#f3e5f5",
+      "section": "news"
+    }
+  ]
+}
