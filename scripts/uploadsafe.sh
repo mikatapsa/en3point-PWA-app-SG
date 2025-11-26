@@ -3,7 +3,7 @@
 BUCKET="en3point-app-sg"
 TARGET="PWA-app"
 BACKUP="backup-$(date +%Y%m%d-%H%M%S)"
-DISTRIBUTIONID = "E1H1IRXWA8X8DS"
+DISTRIBUTIONID="E1ZH6AZOA0HY8F"
 
 # Default: create backup (pass --no-backup to skip)
 CREATE_BACKUP=false
